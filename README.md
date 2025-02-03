@@ -1,4 +1,4 @@
-about: 
+About: 
 This project is about sorting numbers but instead of having the most efficient or quick way of sorting they want us to do it in the least amount of order possible.
 
 Usage:
